@@ -1,0 +1,13 @@
+campaign_id,name,vertical,client_id,dialing_mode,status,target_abandon_rate,dial_ratio,conversion_threshold,created_at,closed_at
+3ae2c7b4-47db-4e8e-9e0f-2e2a5112e364,Insurance Campaign 1 — Exploit 24/7 Networks,Insurance,c6e6b904-4e07-4ae7-9875-4194fa5a60a3,Predictive,Closed,0.03,3.65,0.096,2026-02-19T08:45:24.520325,2026-03-18T08:45:24.520325
+c5dcf8d3-3173-44a5-b8ea-89eb9d99134d,Insurance Campaign 2 — Generate Revolutionary Convergence,Insurance,e4f3ba41-e7b6-4c80-bc8b-bf1e4a76fe3f,Progressive,Active,0.03,3.15,0.108,2026-04-18T20:00:34.520325,
+935d3dc4-1cf0-4b02-9d62-f6855bb0ad1e,Insurance Campaign 3 — Incubate Cutting-Edge Web Services,Insurance,db405f84-da8a-4a2e-9eb7-0fdc945f1e73,Predictive,Closed,0.03,2.5,0.149,2026-03-14T13:13:31.520325,2026-05-02T13:13:31.520325
+5035edcc-74bd-4b5a-84e3-ddb3f76dd792,Healthcare Campaign 1 — Disintermediate Innovative Mindshare,Healthcare,56b15cfc-c67f-470d-a7bd-a8d30a3d4597,Preview,Active,0.03,3.93,0.092,2026-05-03T13:47:15.520325,
+caf876ab-d2bd-40a2-b3b4-e5f0efa3ec40,Healthcare Campaign 2 — Visualize Cross-Platform Synergies,Healthcare,c6e6b904-4e07-4ae7-9875-4194fa5a60a3,Progressive,Active,0.03,3.47,0.111,2026-03-12T00:00:14.520325,
+a3679446-79fc-42f8-95ca-003bc17cb437,Healthcare Campaign 3 — Iterate Next-Generation Models,Healthcare,e4f3ba41-e7b6-4c80-bc8b-bf1e4a76fe3f,Progressive,Active,0.03,3.27,0.08,2026-04-28T18:14:43.520325,
+cfb3a913-771b-4ce5-ab0e-c0ae781025d0,RealEstate Campaign 1 — Transform User-Centric Relationships,RealEstate,db405f84-da8a-4a2e-9eb7-0fdc945f1e73,Progressive,Closed,0.03,3.87,0.144,2026-05-04T00:12:33.520325,2026-06-12T00:12:33.520325
+afe63de6-8441-47a8-bae4-b314f5fcd99b,RealEstate Campaign 2 — Whiteboard Ubiquitous Eyeballs,RealEstate,73064cdb-d802-4fc9-9a31-483bdc56aa87,Predictive,Active,0.03,2.25,0.102,2026-05-20T10:57:20.520325,
+cede568f-19d7-4975-b419-66b51f34ad3c,RealEstate Campaign 3 — Brand Virtual Deliverables,RealEstate,d3dc91d1-11a8-4947-9f3a-baa1e86e13b3,Predictive,Active,0.03,1.98,0.127,2026-04-08T18:05:24.520325,
+ec2c0889-887a-449e-9f72-4ea1064ea1cb,AR Campaign 1 — Visualize Real-Time E-Business,AR,d3dc91d1-11a8-4947-9f3a-baa1e86e13b3,Progressive,Closed,0.03,3.58,0.101,2026-04-03T01:47:10.520325,2026-05-09T01:47:10.520325
+178f526c-a640-4984-bbce-133355f53c67,AR Campaign 2 — Exploit Compelling Bandwidth,AR,db405f84-da8a-4a2e-9eb7-0fdc945f1e73,Progressive,Closed,0.03,2.61,0.095,2026-03-01T06:21:48.520325,2026-05-28T06:21:48.520325
+d4315796-a40a-4c43-b7f4-7e5ece684a15,AR Campaign 3 — Brand Real-Time Vortals,AR,73064cdb-d802-4fc9-9a31-483bdc56aa87,Progressive,Closed,0.03,3.16,0.123,2026-04-21T08:02:54.520325,2026-05-26T08:02:54.520325

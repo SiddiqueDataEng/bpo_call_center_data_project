@@ -1,0 +1,61 @@
+agent_id,first_name,last_name,email,role,vertical_specialization,performance_tier,base_conversion_rate,hire_date,is_active,team_lead_id
+7b40e9e5-5980-4152-b08c-4117c8d014dc,John,Kennedy,glee@example.net,Agent,Healthcare,high,0.2134,2025-05-17,True,7b6bf6b8-6b18-4871-a023-c0d459892baf
+283e7eb4-1af3-4954-98a5-25201c2aeadd,Michael,Jenkins,nuneztracey@example.org,Agent,Insurance,mid,0.0996,2023-10-20,True,ca9f20c6-d753-4acf-9168-3abf2d5af520
+c9c289eb-0a9a-4468-99c2-6410842b3d71,Richard,Morgan,wrightjames@example.com,Agent,RealEstate,mid,0.1581,2024-02-20,True,7b6bf6b8-6b18-4871-a023-c0d459892baf
+a466cfe7-9c5a-4806-b6db-b905292e96d7,Robert,Ramirez,nancyjones@example.net,Agent,RealEstate,high,0.2616,2023-12-17,True,ca9f20c6-d753-4acf-9168-3abf2d5af520
+eadcc01d-52c5-4c77-a2e5-54993ba4d396,Brent,Kidd,novaksara@example.org,QA Manager,Insurance,mid,0.1492,2024-04-01,True,
+0c81f18b-85e8-4549-b64e-0e76e832337f,Richard,Olson,kbarrera@example.com,QA Manager,RealEstate,mid,0.1267,2023-07-21,True,
+eedfc114-2f19-4569-9426-84380f9eebc3,Tricia,Baker,smitchell@example.net,Supervisor,Healthcare,high,0.2284,2025-11-27,True,
+afc94b6a-3879-41f4-9699-e04d24c0f879,Dorothy,Tucker,kennethnovak@example.net,Campaign Manager,AR,mid,0.0725,2025-11-06,True,
+e1d91940-b797-408a-9d2f-9f61f9da2a2a,Bruce,Edwards,silvawesley@example.net,Agent,Healthcare,mid,0.115,2024-03-18,True,0956926f-0366-427b-a03d-14f8f55e7452
+03711bc5-9094-416e-83bd-82e76be4a5c5,Brian,Romero,caseyjones@example.org,Agent,Healthcare,mid,0.1027,2025-04-05,True,df40303b-6fde-45f2-8da4-c02d1f679195
+9d06ed20-1b6b-44d9-864f-f0ab9a45db54,David,Zamora,bethwilliams@example.org,Agent,Healthcare,low,0.0546,2025-04-29,True,f502349f-d71f-4398-b80a-77b51efbd2be
+925e9d81-7f51-43bb-bba9-a9658770181f,Diane,Cunningham,sarah35@example.org,Agent,RealEstate,high,0.1847,2024-09-02,True,fecb539e-be88-4c7e-a517-23d33aa4c9d8
+8cde7cc5-0280-46f0-86c8-c30c475ed899,Randy,Powers,stephen10@example.com,Agent,RealEstate,low,0.0755,2026-03-08,True,f502349f-d71f-4398-b80a-77b51efbd2be
+0956926f-0366-427b-a03d-14f8f55e7452,Yolanda,Ferrell,medinawilliam@example.org,Team Lead,Healthcare,high,0.2429,2025-01-10,True,
+7b6bf6b8-6b18-4871-a023-c0d459892baf,Nicole,Suarez,justin78@example.net,Team Lead,AR,mid,0.1462,2024-10-29,True,
+30fdc5ae-792a-44d3-8691-6fbbb1d74175,Cheryl,Archer,contrerasangela@example.net,Admin,Insurance,mid,0.1179,2023-12-25,True,
+7c3475b7-be83-4b6c-882a-011f8294ee3a,Sheila,Taylor,prestonjulia@example.org,Campaign Manager,Healthcare,high,0.2255,2024-09-13,False,
+22b8d62c-0d8c-4b57-85c2-2e3ffa0d6f6c,Juan,Clark,james48@example.com,Agent,RealEstate,low,0.0498,2024-08-11,True,06b0f823-3589-4c4d-8ce1-2a6d07fbc4c0
+b0b5558b-771f-4759-ad49-2cc6efdb42bf,Rebecca,Mathis,waltersmaria@example.org,Campaign Manager,Insurance,high,0.2097,2023-07-23,True,
+df40303b-6fde-45f2-8da4-c02d1f679195,Matthew,Anderson,evan78@example.net,Team Lead,AR,high,0.1974,2025-05-12,True,
+41b34a14-baeb-4d30-a615-65b794654f61,Ann,Rodriguez,amydavenport@example.net,Agent,RealEstate,mid,0.1634,2025-11-22,True,fecb539e-be88-4c7e-a517-23d33aa4c9d8
+7734ed34-1d73-4b59-8c9b-43ae35026f9d,Earl,Anderson,michael05@example.org,Agent,Healthcare,mid,0.124,2026-06-11,True,ca9f20c6-d753-4acf-9168-3abf2d5af520
+6238acc2-b46c-41dc-acb0-51b850aaf1bc,John,Garcia,vdickson@example.org,Supervisor,Insurance,mid,0.1112,2024-07-19,True,
+504540af-1b71-46ce-9177-acb43476987a,Michelle,Cherry,nicolejohnson@example.net,Agent,RealEstate,low,0.0565,2024-12-15,True,7b6bf6b8-6b18-4871-a023-c0d459892baf
+a029557e-1cf7-4b76-a0a5-daf77dedf1c1,Kimberly,Jenkins,josephcobb@example.org,Agent,Insurance,mid,0.1498,2025-03-03,False,7b6bf6b8-6b18-4871-a023-c0d459892baf
+69d96983-fd25-4e39-97be-f9537ae067ad,Monica,Garrison,jamessellers@example.com,Supervisor,Healthcare,low,0.0818,2024-11-03,True,
+c463fd3a-fe82-4f75-b935-90f266ba6fd9,Lori,Savage,andrewlee@example.com,Data Engineer,AR,high,0.2648,2024-09-22,True,
+4edfafe9-c78b-4c2a-87bb-8cc387cbe8d4,Michelle,Rasmussen,michael86@example.net,Supervisor,AR,mid,0.1198,2025-10-27,True,
+06b0f823-3589-4c4d-8ce1-2a6d07fbc4c0,Mark,Johnson,gregory40@example.org,Team Lead,AR,mid,0.1403,2026-01-29,True,
+fecb539e-be88-4c7e-a517-23d33aa4c9d8,Ryan,Chandler,samuel81@example.com,Team Lead,Healthcare,high,0.2298,2025-12-29,False,
+f73a4bca-47e0-4bab-a858-731b6b99fb14,James,Williams,zsmith@example.net,Supervisor,Insurance,high,0.2528,2026-05-24,False,
+7dd479d0-e9e7-4c13-bd7a-996d9c940f82,James,Reynolds,cindy14@example.net,Agent,Healthcare,mid,0.1078,2024-11-09,True,f502349f-d71f-4398-b80a-77b51efbd2be
+539190da-0298-4314-ad69-2894660e1399,Elizabeth,Nguyen,angela36@example.net,Supervisor,AR,low,0.071,2025-02-25,True,
+28b4a321-fe50-474f-939d-9dce8608da64,Erica,Orr,richard04@example.com,Agent,RealEstate,mid,0.1526,2024-06-08,True,7b6bf6b8-6b18-4871-a023-c0d459892baf
+9b474cdd-8fec-45f8-a109-38e789aeb3c2,Russell,Carpenter,steven73@example.net,Agent,Insurance,mid,0.16,2025-07-22,True,f502349f-d71f-4398-b80a-77b51efbd2be
+9ffa4d6b-21f1-42d5-ba80-c37afcf36808,Laura,Moyer,donnacampbell@example.net,Agent,AR,high,0.232,2026-03-27,True,f502349f-d71f-4398-b80a-77b51efbd2be
+01eb6f7a-a7d7-40ca-bb39-d438ff4f6b06,Christine,Davis,emilywalker@example.org,Agent,Insurance,mid,0.0928,2024-03-02,True,7b6bf6b8-6b18-4871-a023-c0d459892baf
+def78ae6-f80a-4f35-bac2-c8276cf9101f,Andrew,Sanchez,xcarr@example.org,Agent,Insurance,low,0.0839,2025-06-24,True,06b0f823-3589-4c4d-8ce1-2a6d07fbc4c0
+587fa819-4620-4533-91f2-e3ee1592bdfe,Robert,Soto,jennifercruz@example.com,Data Engineer,Healthcare,low,0.0509,2024-07-31,True,
+d9c01812-0913-4e74-a3e5-9c39e6f30599,Dylan,Watts,osbornejeffery@example.net,Campaign Manager,Insurance,high,0.2327,2025-09-29,True,
+0d79d4c8-e847-4662-912e-9e777b93965f,Steven,Grant,bryantlaurie@example.net,Agent,AR,low,0.0632,2025-10-20,True,0956926f-0366-427b-a03d-14f8f55e7452
+29133348-585d-473a-91e7-157e28071835,Vanessa,Larson,usalazar@example.net,QA Manager,AR,mid,0.1601,2025-05-10,True,
+8a8d125c-a570-4d3e-8705-b1df5490a7e6,Maria,Kelley,juliawells@example.com,Agent,Insurance,low,0.0699,2024-08-05,True,7b6bf6b8-6b18-4871-a023-c0d459892baf
+ae00cc72-ea14-4303-a033-4e4208c83488,Mary,Ramirez,rsims@example.com,Agent,Healthcare,low,0.0631,2023-11-15,False,ca9f20c6-d753-4acf-9168-3abf2d5af520
+533a1b8c-2242-4162-8b4d-ebdce39f7a0a,Jennifer,Young,luis81@example.org,Agent,Insurance,low,0.0452,2024-03-08,True,df40303b-6fde-45f2-8da4-c02d1f679195
+b6125648-6ed1-40d1-a876-fc1abe57dfae,Jesse,Benson,calebrussell@example.net,Agent,Healthcare,low,0.0531,2025-07-10,True,f502349f-d71f-4398-b80a-77b51efbd2be
+27fcbf73-9b8a-49f1-86fb-741c612bee2f,Robert,Clark,xprice@example.net,Agent,RealEstate,high,0.2324,2023-08-17,True,06b0f823-3589-4c4d-8ce1-2a6d07fbc4c0
+dc3f2b18-ae07-4107-abe5-c873c437a8e0,Melissa,Cannon,wwoods@example.com,Agent,RealEstate,mid,0.1246,2025-03-14,True,f502349f-d71f-4398-b80a-77b51efbd2be
+d6beeec8-5322-4436-9c92-5333b965c589,Melissa,Ashley,vmedina@example.net,Data Engineer,Insurance,low,0.0005,2026-02-09,True,
+2e099964-b945-4362-a1ec-6ff09ced9327,Rachael,Freeman,ryan06@example.com,Agent,RealEstate,high,0.2386,2026-05-22,True,ca9f20c6-d753-4acf-9168-3abf2d5af520
+a90d71eb-7396-405c-a5f2-4ff61bed6ebd,Erin,Powell,marycalhoun@example.net,Agent,Healthcare,high,0.212,2025-10-24,True,f502349f-d71f-4398-b80a-77b51efbd2be
+3986e1c3-c1f8-44a8-bd91-62aca531c0b0,Anthony,Long,millerroy@example.com,Supervisor,Insurance,mid,0.1386,2024-04-25,True,
+ca9f20c6-d753-4acf-9168-3abf2d5af520,Brent,Gray,shawnrogers@example.com,Team Lead,Insurance,low,0.08,2024-09-22,True,
+ac412db4-3110-46a2-baee-639bc02e6acb,Karen,Decker,mary70@example.net,Agent,RealEstate,mid,0.126,2025-11-01,True,ca9f20c6-d753-4acf-9168-3abf2d5af520
+6a770356-de05-4148-a176-a3550c938834,Brett,Crane,debraharrington@example.net,Agent,RealEstate,mid,0.1148,2023-09-18,True,f502349f-d71f-4398-b80a-77b51efbd2be
+53cff4b3-db22-4a78-b34a-6dcf50ae39db,Karen,Herring,maryhowell@example.org,Agent,RealEstate,mid,0.1295,2024-01-30,False,7b6bf6b8-6b18-4871-a023-c0d459892baf
+4e194719-3bb8-4772-8379-848532265f67,Thomas,Wilson,stevenscott@example.com,Agent,RealEstate,high,0.2314,2024-04-03,True,df40303b-6fde-45f2-8da4-c02d1f679195
+f502349f-d71f-4398-b80a-77b51efbd2be,Catherine,Stuart,stricklandfrank@example.com,Team Lead,Healthcare,high,0.2384,2024-01-01,True,
+cbc3aa35-3f5d-4d90-8d15-c47be0118c05,Beth,Hickman,tsanders@example.org,QA Manager,Healthcare,mid,0.1247,2023-11-13,True,
+014de6a2-0718-4be6-b43e-49564dd1dae7,Brittany,Rivas,curtisbarton@example.net,Data Engineer,Insurance,low,0.0725,2026-02-04,True,

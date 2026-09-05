@@ -1,0 +1,62 @@
+{
+  "models": [
+    {
+      "model": "Insurance",
+      "n_test": 49,
+      "positive_rate": 0.5918,
+      "auc_roc": 0.9759,
+      "accuracy": 0.8571,
+      "precision": 0.8235,
+      "recall": 0.9655,
+      "f1": 0.8889,
+      "cv_auc_mean": 0.992,
+      "cv_auc_std": 0.0045
+    },
+    {
+      "model": "Healthcare",
+      "n_test": 54,
+      "positive_rate": 0.5926,
+      "auc_roc": 0.9886,
+      "accuracy": 0.9259,
+      "precision": 0.9375,
+      "recall": 0.9375,
+      "f1": 0.9375,
+      "cv_auc_mean": 0.9947,
+      "cv_auc_std": 0.0011
+    },
+    {
+      "model": "RealEstate",
+      "n_test": 46,
+      "positive_rate": 0.4565,
+      "auc_roc": 0.9695,
+      "accuracy": 0.8478,
+      "precision": 0.9375,
+      "recall": 0.7143,
+      "f1": 0.8108,
+      "cv_auc_mean": 0.9509,
+      "cv_auc_std": 0.0106
+    },
+    {
+      "model": "AR",
+      "n_test": 52,
+      "positive_rate": 0.5385,
+      "auc_roc": 0.9167,
+      "accuracy": 0.8269,
+      "precision": 0.8276,
+      "recall": 0.8571,
+      "f1": 0.8421,
+      "cv_auc_mean": 0.948,
+      "cv_auc_std": 0.0146
+    },
+    {
+      "model": "Global",
+      "n_test": 200,
+      "positive_rate": 0.545,
+      "auc_roc": 0.9882,
+      "accuracy": 0.94,
+      "precision": 0.9369,
+      "recall": 0.9541,
+      "f1": 0.9455
+    }
+  ]
+}

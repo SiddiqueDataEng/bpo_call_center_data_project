@@ -69,10 +69,28 @@ VERTICAL_ICONS = {
 # ── CSS ───────────────────────────────────────────────────────────────────────
 st.markdown("""
 <style>
-  [data-testid="stSidebar"] { background: #111827; }
-  [data-testid="stSidebar"] * { color: #F9FAFB !important; }
+    :root {
+        --page-bg: #0B1220;
+        --surface: #FFFFFF;
+        --text-primary: #F8FAFC;
+        --text-secondary: #CBD5E1;
+        --text-muted: #94A3B8;
+        --accent: #60A5FA;
+    }
+    [data-testid="stAppViewContainer"] { background: var(--page-bg); }
+    [data-testid="stSidebar"] { background: #111827; }
+    [data-testid="stSidebar"] * { color: #F8FAFC !important; }
+    [data-testid="stMarkdownContainer"] { color: var(--text-secondary); }
+    [data-testid="stMarkdownContainer"] h1,
+    [data-testid="stMarkdownContainer"] h2,
+    [data-testid="stMarkdownContainer"] h3,
+    [data-testid="stMarkdownContainer"] h4 {
+        color: var(--text-primary) !important;
+        font-weight: 750;
+    }
+    [data-testid="stMarkdownContainer"] p { color: var(--text-secondary); }
   .metric-card {
-    background: white; border-radius: 12px; padding: 20px 24px;
+        background: var(--surface); border-radius: 12px; padding: 20px 24px;
     box-shadow: 0 1px 3px rgba(0,0,0,0.08); border-left: 4px solid #1A56DB;
     margin-bottom: 8px;
   }
@@ -84,12 +102,13 @@ st.markdown("""
   .metric-value { font-size: 28px; font-weight: 700; color: #111827;
                   line-height: 1.2; }
   .metric-delta { font-size: 13px; margin-top: 2px; }
-  .section-title { font-size: 22px; font-weight: 700; color: #111827;
+    .section-title { font-size: 22px; font-weight: 750; color: var(--text-primary);
                    margin: 16px 0 4px; }
-  .section-sub   { font-size: 14px; color: #6B7280; margin-bottom: 16px; }
-  div[data-testid="stMarkdownContainer"] h1 { color: #111827; }
-  .stTabs [data-baseweb="tab"] { font-weight: 600; font-size: 14px; }
-  .stTabs [aria-selected="true"] { color: #1A56DB !important; }
+    .section-sub   { font-size: 14px; color: var(--text-secondary); margin-bottom: 16px; }
+    .stTabs [data-baseweb="tab"] { color: var(--text-secondary); font-weight: 650; font-size: 14px; }
+    .stTabs [aria-selected="true"] { color: var(--accent) !important; }
+    [data-testid="stHorizontalBlock"] hr,
+    hr { border-color: #334155; }
 </style>
 """, unsafe_allow_html=True)
 

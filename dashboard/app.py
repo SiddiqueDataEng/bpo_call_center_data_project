@@ -14,12 +14,18 @@ Professional Streamlit dashboard with:
 from __future__ import annotations
 
 import json
+import sys
 from pathlib import Path
 
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
+
+BASE = Path(__file__).resolve().parent.parent
+if str(BASE) not in sys.path:
+    sys.path.insert(0, str(BASE))
+
 from dashboard.sql_page import render_sql_page
 from dashboard.glossary_page import render_glossary_page
 from dashboard.ai_chat_page import render_ai_chat_page
@@ -33,7 +39,6 @@ st.set_page_config(
 )
 
 # ── Paths ─────────────────────────────────────────────────────────────────────
-BASE = Path(__file__).parent.parent
 GOLD = BASE / "lakehouse" / "gold"
 SILVER = BASE / "lakehouse" / "silver"
 BRONZE = BASE / "lakehouse" / "bronze"
